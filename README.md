@@ -1,1 +1,1 @@
-# 20200918NO1
+# GoogleColab Python
